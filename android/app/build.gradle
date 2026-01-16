@@ -3,6 +3,7 @@ apply plugin: 'com.android.application'
 android {
     namespace "com.liahona.mind"
     compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
     defaultConfig {
         applicationId "com.liahona.mind"
         minSdkVersion rootProject.ext.minSdkVersion

@@ -1,29 +1,64 @@
-import React, { useState, useEffect } from 'react'
-import GoogleTTS from '../audio/GoogleTTS'
+import React, { useState, useEffect, useRef } from 'react'
 
 export default function Onboarding({ onComplete, saveUserData }) {
   const [step, setStep] = useState(0)
   const [name, setName] = useState('')
   const [selectedVoice, setSelectedVoice] = useState('male-english')
   const [testingVoice, setTestingVoice] = useState(false)
+  const audioRef = useRef(null)
 
   const testVoice = async (voiceType) => {
     if (testingVoice) return
     setTestingVoice(true)
 
     try {
-      const tts = new GoogleTTS()
-      const testText = name
-        ? `Hello ${name}. I will guide you through your healing journey.`
-        : 'Hello. I will guide you through your healing journey.'
+      // Stop any currently playing audio
+      if (audioRef.current) {
+        audioRef.current.pause()
+        audioRef.current = null
+      }
 
-      const lang = voiceType === 'female' ? 'en-US' : 'en-GB'
-      await tts.speak(testText, { lang, pauseAfter: 500 })
+      // Play a sample from the pre-recorded ElevenLabs audio
+      const samplePath = voiceType === 'female'
+        ? '/audio/anxiety/female/session-01-foundation-of-peace-deep.mp3'
+        : '/audio/anxiety/male/session-01-foundation-of-peace-deep.mp3'
+
+      audioRef.current = new Audio(samplePath)
+      audioRef.current.volume = 0.8
+
+      // Only play first 15 seconds
+      audioRef.current.addEventListener('timeupdate', () => {
+        if (audioRef.current && audioRef.current.currentTime > 15) {
+          audioRef.current.pause()
+          setTestingVoice(false)
+        }
+      })
+
+      audioRef.current.addEventListener('ended', () => {
+        setTestingVoice(false)
+      })
+
+      audioRef.current.addEventListener('error', () => {
+        setTestingVoice(false)
+        alert('Could not play audio sample.')
+      })
+
+      await audioRef.current.play()
+
+      // Auto-stop after 15 seconds
+      setTimeout(() => {
+        if (audioRef.current) {
+          audioRef.current.pause()
+          audioRef.current = null
+          setTestingVoice(false)
+        }
+      }, 15000)
+
     } catch (error) {
       console.error('Voice test error:', error)
-      alert('Could not play audio. Please ensure your device volume is up and you have internet connection.')
+      alert('Could not play audio. Please check your volume.')
+      setTestingVoice(false)
     }
-    setTestingVoice(false)
   }
 
   const handleComplete = async () => {
@@ -121,9 +156,9 @@ export default function Onboarding({ onComplete, saveUserData }) {
       >
         <div className="flex justify-between items-center">
           <div>
-            <h4>Male Voice</h4>
+            <h4>Adam Stone</h4>
             <p className="text-muted" style={{ fontSize: '0.9rem' }}>
-              Calm, reassuring male voice with a slight English accent
+              Smooth, deep, and relaxed male voice
             </p>
           </div>
           <div style={{
@@ -158,9 +193,9 @@ export default function Onboarding({ onComplete, saveUserData }) {
       >
         <div className="flex justify-between items-center">
           <div>
-            <h4>Female Voice</h4>
+            <h4>Serene Presence</h4>
             <p className="text-muted" style={{ fontSize: '0.9rem' }}>
-              Gentle, soothing female voice
+              Calm, grounded female voice
             </p>
           </div>
           <div style={{
