@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Liahona Mind</string>
+    <string name="title_activity_main">Liahona Mind</string>
+    <string name="package_name">com.liahona.mind</string>
+    <string name="custom_url_scheme">com.liahona.mind</string>
+</resources>

@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+*.apk
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/capacitor-android/build/
+android/capacitor-cordova-android-plugins/build/
+android/capacitor-community-text-to-speech/build/
+android/capacitor-splash-screen/build/
+android/capacitor-status-bar/build/
+android/*.iml
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/App/build/
+ios/App/*.xcworkspace/
+ios/App/xcuserdata/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temp
+/tmp/
+*.tmp
+
+# Audio generation logs
+generation-log.txt
