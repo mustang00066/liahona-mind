@@ -50,9 +50,19 @@ git add -A && git commit -m 'Auto-save: [brief description of work done]'
   - NOTE: Session 9 (Guilt/Shame) REMOVED - now its own series
 - **Self-Confidence scripts**: COMPLETE (Sessions 1-8, Deep + Quick = 16 scripts)
 - **Phone Addiction**: COMPLETE (Sessions 1-8, Deep + Quick = 16 scripts)
-- **Overthinking**: Pending expansion (8 sessions x 2 versions)
+- **Overthinking**: COMPLETE (Sessions 1-8, Deep + Quick = 16 scripts)
+  - Anchor: thumb + middle finger
+  - Session 1: Quieting the Busy Mind (snow globe metaphor, cognitive defusion)
+  - Session 2: Present Moment Awareness (river metaphor, body/breath/sounds doorways)
+  - Session 3: Breaking Rumination (5 interruption techniques, thought box)
+  - Session 4: Confident Decision Making (crossroads metaphor, 6-step process)
+  - Session 5: Releasing Perfectionism (vase metaphor, excellence vs perfectionism)
+  - Session 6: Silencing the Inner Critic (inner supporter voice, script replacement)
+  - Session 7: Action Over Analysis (smallest step, two-minute rule, 15-min timer)
+  - Session 8: Living with a Calm Mind (integration, all 7 skills consolidated)
 - **Nail Biting**: Pending expansion (6 sessions x 2 versions)
   - Preserve behavioral techniques like fist/wrist tap
+  - Add HRT (Habit Reversal Training) techniques
 - **Pornography/Masturbation Addiction**: Pending expansion (10 sessions x 2 versions)
   - Should address masturbation alongside pornography
 - **Present with Family**: Pending expansion (6 sessions x 2 versions)
@@ -77,3 +87,15 @@ git add -A && git commit -m 'Auto-save: [brief description of work done]'
   - Session 6: Mindful Technology Use (PAUSE protocol)
   - Session 7: Connection vs. Distraction
   - Session 8: Freedom from Phone Dependency (integration)
+2026-01-16: Overthinking series COMPLETE (all 8 sessions, both versions)
+  - All scripts expanded from ~350-850 words to ~2,300-2,400 (quick) and ~4,900-5,200 (deep)
+  - Uses thumb + middle finger anchor that builds progressively across all sessions
+  - Evidence-based techniques: cognitive defusion, ACT, IFS parts work, mindfulness
+
+## Next Steps
+1. Create Overthinking toolbox (non-hypnotherapy supplemental tools)
+2. Expand Nail Biting series (6 sessions x 2) - add HRT techniques
+3. Expand Pornography/Masturbation series (10 sessions x 2)
+4. Expand Present with Family series (6 sessions x 2)
+5. Create Guilt and Shame series from scratch (6-8 sessions x 2)
+6. Create Master Toolbox organized by series
