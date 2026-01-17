@@ -68,8 +68,18 @@ git add -A && git commit -m 'Auto-save: [brief description of work done]'
   - Session 4: Emotional Roots (anxiety/boredom/frustration/sadness, healthier alternatives)
   - Session 5: Building New Identity (identity-level change, identity statement)
   - Session 6: Freedom and Maintenance (integration, maintenance practices, handling slips)
-- **Pornography/Masturbation Addiction**: Pending expansion (10 sessions x 2 versions)
-  - Should address masturbation alongside pornography
+- **Pornography/Masturbation Addiction**: COMPLETE (Sessions 1-10, Deep + Quick = 20 scripts)
+  - Anchor: thumb + second finger
+  - Session 1: Understanding Addiction (brain science, HALT framework, addiction cycle)
+  - Session 2: Building Boundaries (three circles model - red/yellow/green zones)
+  - Session 3: Rewiring the Brain (neuroplasticity, pathway weakening/strengthening)
+  - Session 4: Mastering Urges (urge surfing, delay, STOP technique, play tape forward)
+  - Session 5: Healing Shame (shame vs guilt, shame cycle, divine worth)
+  - Session 6: Healthy Coping (5 categories: emotional, physical, social, spiritual, cognitive)
+  - Session 7: Connection & Accountability (isolation breaks, accountability systems)
+  - Session 8: New Identity (identity-level change, becoming vs fighting)
+  - Session 9: Relapse Prevention (3 stages, early warning systems, HALT monitoring)
+  - Session 10: Freedom Forever (integration, sealing, celebration, commissioning)
 - **Present with Family**: Pending expansion (6 sessions x 2 versions)
 
 ## New Series to Create
@@ -103,10 +113,22 @@ git add -A && git commit -m 'Auto-save: [brief description of work done]'
   - HRT techniques: wrist tap, competing response (gentle fist), urge surfing
   - Emotional roots exploration with healthier alternatives
   - Identity-level change approach
+2026-01-16: Pornography/Masturbation series COMPLETE (all 10 sessions, both versions)
+  - All scripts expanded to ~5,000 words (deep) and ~2,400 words (quick)
+  - Uses thumb + second finger anchor that builds progressively
+  - HALT framework and addiction cycle concepts throughout
+  - Evidence-based: urge surfing, STOP technique, neuroplasticity, three circles model
+  - Addresses pornography and masturbation together as interconnected behaviors
+  - Identity-level change approach with relapse prevention systems
+
+## New Series Requested
+- **Developing Patience**: 6-8 sessions x 2 versions
+- **Overcoming Misophonia**: 6-8 sessions x 2 versions
 
 ## Next Steps
-1. Create Nail Biting toolbox (non-hypnotherapy supplemental tools)
-2. Expand Pornography/Masturbation series (10 sessions x 2)
-3. Expand Present with Family series (6 sessions x 2)
-4. Create Guilt and Shame series from scratch (6-8 sessions x 2)
-5. Create Master Toolbox organized by series
+1. Create Pornography/Masturbation toolbox (non-hypnotherapy supplemental tools)
+2. Expand Present with Family series (6 sessions x 2)
+3. Create Guilt and Shame series from scratch (6-8 sessions x 2)
+4. Create Developing Patience series (6-8 sessions x 2)
+5. Create Overcoming Misophonia series (6-8 sessions x 2)
+6. Create Master Toolbox organized by series
