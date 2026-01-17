@@ -1,0 +1,298 @@
+===============================================================================
+                         LIAHONA MIND - MASTER TOOLBOX
+                     Complete Reference Guide by Series
+===============================================================================
+
+This document provides a quick reference to all anchors and top tools from
+each hypnotherapy series. For detailed instructions, see the individual
+series toolbox files.
+
+===============================================================================
+                              ANCHOR REFERENCE
+===============================================================================
+
+SERIES                          ANCHOR                          GESTURE
+-------------------------------------------------------------------------------
+Anxiety                         Thumb + finger                  Press together
+Self-Confidence                 Thumb + ring finger             Press together
+Phone Addiction                 Thumb + pinky finger            Press together
+Overthinking                    Thumb + middle finger           Press together
+Nail Biting                     Thumb + first finger            Press together
+Pornography/Masturbation        Thumb + second finger           Press together
+Present with Family             Hand over heart                 Palm on chest
+Guilt and Shame                 Palm on chest                   Self-compassion
+Developing Patience             Interlaced fingers              Fingers woven
+Overcoming Misophonia           Thumb in opposite palm          Press center
+Overcoming Perfectionism        OK gesture                      Circle shape
+Overcoming Lust                 Center of forehead              Touch gently
+Motivation and Drive            Fist                            Make firm fist
+Healthy Physical Choices        Hand on belly                   Palm on stomach
+-------------------------------------------------------------------------------
+
+HOW TO USE ANCHORS:
+1. Make the gesture
+2. Hold for 3-5 seconds while breathing deeply
+3. Recall the associated affirmation or state
+4. Release and proceed with clarity
+
+Anchors grow stronger with each use. Use them consistently.
+
+===============================================================================
+                        SERIES 1: ANXIETY
+===============================================================================
+Anchor: Thumb + finger pressed together
+Affirmation: "I am calm, centered, and at peace"
+
+Top 3 Tools:
+1. BOX BREATHING: Inhale 4 counts, hold 4, exhale 4, hold 4. Repeat 4+ times.
+2. GROUNDING (5-4-3-2-1): Name 5 things you see, 4 hear, 3 feel, 2 smell, 1 taste.
+3. THOUGHT DEFUSION: Notice anxious thoughts as "I'm having the thought that..."
+
+See: /scripts/anxiety/toolbox-*.txt (for individual toolbox)
+
+===============================================================================
+                        SERIES 2: SELF-CONFIDENCE
+===============================================================================
+Anchor: Thumb + ring finger pressed together
+Affirmation: "I am capable, worthy, and confident"
+
+Top 3 Tools:
+1. POWER POSE: Stand tall, shoulders back, chest open for 2 minutes before challenges.
+2. EVIDENCE LOG: Write daily evidence that contradicts limiting beliefs.
+3. PAST SUCCESSES: List 5 past achievements to recall before challenging situations.
+
+See: /scripts/self-confidence/toolbox-*.txt
+
+===============================================================================
+                        SERIES 3: PHONE ADDICTION
+===============================================================================
+Anchor: Thumb + pinky finger pressed together
+Affirmation: "I am present and in control of my attention"
+
+Top 3 Tools:
+1. PAUSE PROTOCOL: Before picking up phone, ask "Why?" Wait 5 seconds.
+2. PHONE ZONES: Designate no-phone times/places (meals, bedroom, etc.)
+3. APP LIMITS: Set daily limits on high-usage apps.
+
+See: /scripts/phone-addiction/toolbox-*.txt
+
+===============================================================================
+                        SERIES 4: OVERTHINKING
+===============================================================================
+Anchor: Thumb + middle finger pressed together
+Affirmation: "My mind is clear, calm, and focused"
+
+Top 3 Tools:
+1. THOUGHT BOX: Visualize placing worries in a box to address at scheduled time.
+2. DECISION DEADLINE: Give yourself a time limit, then decide and move on.
+3. WORRY WINDOW: Schedule 15 minutes daily for worrying; contain it to that time.
+
+See: /scripts/overthinking/toolbox-*.txt
+
+===============================================================================
+                        SERIES 5: NAIL BITING
+===============================================================================
+Anchor: Thumb + first finger pressed together
+Affirmation: "My hands are calm and my nails are healthy"
+
+Top 3 Tools:
+1. WRIST TAP: When urge arises, tap wrist 3 times to interrupt pattern.
+2. COMPETING RESPONSE: Make gentle fist for 1-2 minutes when urge hits.
+3. URGE SURFING: Observe urge without acting; it peaks and passes in 90 seconds.
+
+See: /scripts/nail-biting/toolbox-*.txt
+
+===============================================================================
+                    SERIES 6: PORNOGRAPHY/MASTURBATION
+===============================================================================
+Anchor: Thumb + second finger pressed together
+Affirmation: "I am free and in control of my choices"
+
+Top 3 Tools:
+1. HALT CHECK: When tempted, ask: Am I Hungry, Angry, Lonely, or Tired?
+2. STOP TECHNIQUE: Stop, Think (of consequences), Observe (feeling), Proceed wisely.
+3. PLAY TAPE FORWARD: Imagine how you'll feel 5 minutes, 1 hour after acting out.
+
+See: /scripts/pornography-masturbation/toolbox-*.txt
+
+===============================================================================
+                      SERIES 7: PRESENT WITH FAMILY
+===============================================================================
+Anchor: Hand over heart
+Affirmation: "I am fully present with those I love"
+
+Top 3 Tools:
+1. TRANSITION RITUAL: Before entering home, take 3 breaths, set intention to be present.
+2. DEVICE DOWN: Phone away during family meals and quality time.
+3. EYE CONTACT MOMENTS: Make deliberate eye contact when family speaks to you.
+
+See: /scripts/present-with-family/toolbox-*.txt
+
+===============================================================================
+                       SERIES 8: GUILT AND SHAME
+===============================================================================
+Anchor: Palm on chest (self-compassion gesture)
+Affirmation: "I am worthy of compassion. My worth is not defined by my mistakes."
+
+Top 3 Tools:
+1. GUILT VS SHAME: Guilt = "I did something bad" (healthy). Shame = "I am bad" (toxic).
+2. SELF-COMPASSION BREAK: Touch chest, acknowledge suffering, offer kindness.
+3. SHAME STORY REWRITE: Challenge shame narratives with more complete truth.
+
+See: /scripts/guilt-and-shame/toolbox-*.txt
+
+===============================================================================
+                      SERIES 9: DEVELOPING PATIENCE
+===============================================================================
+Anchor: Interlaced fingers
+Affirmation: "I have all the time I need. Patience flows through me."
+
+Top 3 Tools:
+1. THREE-BREATH PAUSE: When impatient, take 3 slow breaths before responding.
+2. REFRAME WAITING: Ask "How can I use this time?" vs. "Why is this taking so long?"
+3. PROGRESS FOCUS: When goal is distant, celebrate small steps forward.
+
+See: /scripts/developing-patience/toolbox-*.txt
+
+===============================================================================
+                     SERIES 10: OVERCOMING MISOPHONIA
+===============================================================================
+Anchor: Thumb pressing into center of opposite palm
+Affirmation: "Sounds cannot harm me. I am safe and in control."
+
+Top 3 Tools:
+1. NOTICE-BREATHE-ANCHOR: When triggered, notice, breathe deeply, press anchor.
+2. DISTANCE TECHNIQUE: Visualize trigger sounds getting farther away.
+3. REFRAME: "This is just a sound. It cannot hurt me. I choose my response."
+
+See: /scripts/overcoming-misophonia/toolbox-*.txt
+
+===============================================================================
+                   SERIES 11: OVERCOMING PERFECTIONISM
+===============================================================================
+Anchor: OK gesture (thumb and pointer finger in circle)
+Affirmation: "Done is better than perfect. I embrace good enough."
+
+Top 3 Tools:
+1. 80/20 STANDARD: Ask "What's 80% good enough?" rather than aiming for 100%.
+2. FIRST DRAFT FREEDOM: Give yourself permission to create imperfect first versions.
+3. SELF-COMPASSION: Talk to yourself as you would a struggling friend.
+
+See: /scripts/overcoming-perfectionism/toolbox-*.txt
+
+===============================================================================
+                      SERIES 12: OVERCOMING LUST
+===============================================================================
+Anchor: Touching center of forehead
+Affirmation: "I am master of my thoughts. I guard my heart."
+
+Top 3 Tools:
+1. NOTICE-RELEASE-REDIRECT: Notice thought, release without fighting, redirect attention.
+2. BOUNCE TECHNIQUE: When eyes land on trigger, immediately look elsewhere. No second look.
+3. ENERGY REDIRECT: Channel sexual energy into physical, creative, or spiritual pursuits.
+
+See: /scripts/overcoming-lust/toolbox-*.txt
+
+===============================================================================
+                    SERIES 13: MOTIVATION AND DRIVE
+===============================================================================
+Anchor: Make a fist
+Affirmation: "I am a person of purpose and drive. Action creates motivation."
+
+Top 3 Tools:
+1. TWO-MINUTE RULE: Commit to just 2 minutes of any task. Starting creates momentum.
+2. WHY STATEMENT: Write and review your purpose: "I exist to ___ so that ___."
+3. FIVE-SECOND RULE: Count 5-4-3-2-1 and MOVE before your brain makes excuses.
+
+See: /scripts/motivation-and-drive/toolbox-*.txt
+
+===============================================================================
+                  SERIES 14: HEALTHY PHYSICAL CHOICES
+===============================================================================
+Anchor: Hand on belly
+Affirmation: "I listen to my body. I honor its needs. My body is a gift."
+
+Top 3 Tools:
+1. HUNGER SCALE: Rate 1-10 before/during meals. Eat at 3-4, stop at 6-7.
+2. MINDFUL BITE: Put utensil down, chew fully, swallow before next bite.
+3. URGE SURF: Ride cravings like waves—they peak and pass in 10-20 minutes.
+
+See: /scripts/healthy-physical-choices/toolbox-*.txt
+
+===============================================================================
+                           DAILY PRACTICES
+===============================================================================
+
+MORNING (5-10 minutes):
+- Set intention for the day
+- Activate relevant anchor(s) for today's challenges
+- Review your "why" or purpose statement
+- Gratitude practice (3 things)
+
+THROUGHOUT THE DAY:
+- Use anchors as needed
+- Apply relevant tools from active series
+- Check in with body (hunger, energy, tension)
+- Pause before reacting (3 breaths)
+
+EVENING (5-10 minutes):
+- Review day: What went well? What could improve?
+- Self-compassion for any struggles
+- Wind-down routine for sleep
+- Gratitude practice (3 things)
+
+WEEKLY:
+- Full review of current focus series
+- Check progress on habits
+- Adjust practices as needed
+
+MONTHLY:
+- Listen to reinforcement session from focus series
+- Review toolbox for refresh
+- Celebrate progress
+
+===============================================================================
+                          EMERGENCY QUICK REFERENCE
+===============================================================================
+
+WHEN ANXIOUS: Anchor + Box breathing + 5-4-3-2-1 grounding
+WHEN CRAVING: Anchor + HALT check + Delay 10 min + Urge surf
+WHEN TEMPTED (addiction): Anchor + STOP technique + Play tape forward
+WHEN ANGRY/IMPATIENT: Anchor + 3 breaths + Reframe
+WHEN OVERWHELMED: Anchor + Break task down + Two-minute start
+WHEN TRIGGERED (sound): Anchor + Notice-Breathe + Distance technique
+WHEN PERFECTIONIST: Anchor + "Good enough" + Self-compassion
+WHEN SHAMEFUL: Anchor + Guilt vs shame + Self-compassion break
+WHEN UNMOTIVATED: Anchor (fist) + Why statement + Two-minute rule
+
+===============================================================================
+                              SERIES QUICK LINKS
+===============================================================================
+
+All scripts located in: /scripts/[series-name]/
+
+Each series folder contains:
+- session-01-*-deep.txt and session-01-*-quick.txt
+- [Additional sessions]
+- toolbox-[series-name].txt
+
+Deep sessions: ~38-42 minutes, ~5,000 words
+Quick sessions: ~18-22 minutes, ~2,400 words
+Toolboxes: 10 non-hypnotherapy tools each
+
+===============================================================================
+                                 NOTES
+===============================================================================
+
+- All scripts personalized for Austin
+- Use Adam Stone voice (slight English accent) for audio generation
+- Deep sessions use 20-step staircase, Quick sessions use 10-step
+- All use eye fatigue induction with diaphragmatic breathing
+- Anchors build progressively across sessions within each series
+
+===============================================================================
+                    Created for Liahona Mind App
+                         Personal use for Austin
+===============================================================================
+
+
