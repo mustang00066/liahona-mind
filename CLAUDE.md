@@ -68,7 +68,7 @@ git add -A && git commit -m 'Auto-save: [brief description of work done]'
   - Session 4: Emotional Roots (anxiety/boredom/frustration/sadness, healthier alternatives)
   - Session 5: Building New Identity (identity-level change, identity statement)
   - Session 6: Freedom and Maintenance (integration, maintenance practices, handling slips)
-- **Pornography/Masturbation Addiction**: COMPLETE (Sessions 1-10, Deep + Quick = 20 scripts)
+- **Pornography/Masturbation Addiction**: COMPLETE (Sessions 1-10, Deep + Quick = 20 scripts + toolbox)
   - Anchor: thumb + second finger
   - Session 1: Understanding Addiction (brain science, HALT framework, addiction cycle)
   - Session 2: Building Boundaries (three circles model - red/yellow/green zones)
@@ -80,7 +80,14 @@ git add -A && git commit -m 'Auto-save: [brief description of work done]'
   - Session 8: New Identity (identity-level change, becoming vs fighting)
   - Session 9: Relapse Prevention (3 stages, early warning systems, HALT monitoring)
   - Session 10: Freedom Forever (integration, sealing, celebration, commissioning)
-- **Present with Family**: Pending expansion (6 sessions x 2 versions)
+- **Present with Family**: COMPLETE (Sessions 1-6, Deep + Quick = 12 scripts + toolbox)
+  - Anchor: hand over heart (unique body anchor since all thumb+finger combinations taken)
+  - Session 1: The Gift of Presence (presence as gift, golden light metaphor)
+  - Session 2: Putting Away Distractions (thieves of presence, four-step transition ritual)
+  - Session 3: Quality Time and Connection (different needs for each family member)
+  - Session 4: Emotional Availability (mourning with those who mourn, validation before solutions)
+  - Session 5: Creating Family Memories (traditions, storytelling, legacy building)
+  - Session 6: Living Present (integration, commissioning as present family man)
 
 ## New Series to Create
 - **Overcoming Guilt and Shame**: Create from scratch (6-8 sessions x 2 versions)
@@ -120,15 +127,22 @@ git add -A && git commit -m 'Auto-save: [brief description of work done]'
   - Evidence-based: urge surfing, STOP technique, neuroplasticity, three circles model
   - Addresses pornography and masturbation together as interconnected behaviors
   - Identity-level change approach with relapse prevention systems
+2026-01-16: Pornography/Masturbation toolbox COMPLETE (10 non-hypnotherapy tools)
+2026-01-16: Present with Family series COMPLETE (all 6 sessions, both versions)
+  - All scripts expanded to ~5,000 words (deep) and ~2,400 words (quick)
+  - Uses hand over heart anchor (unique body anchor)
+  - Four-step transition ritual, emotional availability, quality time, memory creation
+  - Focuses on presence, connection, and family legacy
+2026-01-16: Present with Family toolbox COMPLETE (10 non-hypnotherapy tools)
 
 ## New Series Requested
 - **Developing Patience**: 6-8 sessions x 2 versions
 - **Overcoming Misophonia**: 6-8 sessions x 2 versions
+- **Overcoming Perfectionism**: 6-8 sessions x 2 versions
 
 ## Next Steps
-1. Create Pornography/Masturbation toolbox (non-hypnotherapy supplemental tools)
-2. Expand Present with Family series (6 sessions x 2)
-3. Create Guilt and Shame series from scratch (6-8 sessions x 2)
-4. Create Developing Patience series (6-8 sessions x 2)
-5. Create Overcoming Misophonia series (6-8 sessions x 2)
-6. Create Master Toolbox organized by series
+1. Create Guilt and Shame series from scratch (6-8 sessions x 2)
+2. Create Developing Patience series (6-8 sessions x 2)
+3. Create Overcoming Misophonia series (6-8 sessions x 2)
+4. Create Overcoming Perfectionism series (6-8 sessions x 2)
+5. Create Master Toolbox organized by series
