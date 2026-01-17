@@ -88,11 +88,16 @@ git add -A && git commit -m 'Auto-save: [brief description of work done]'
   - Session 4: Emotional Availability (mourning with those who mourn, validation before solutions)
   - Session 5: Creating Family Memories (traditions, storytelling, legacy building)
   - Session 6: Living Present (integration, commissioning as present family man)
-
-## New Series to Create
-- **Overcoming Guilt and Shame**: Create from scratch (6-8 sessions x 2 versions)
-  - Removed from Anxiety series to be its own complete topic
-  - Can integrate guilt/shame themes into other series where applicable
+- **Guilt and Shame**: COMPLETE (Sessions 1-8, Deep + Quick = 16 scripts + toolbox)
+  - Anchor: palm on chest (self-compassion gesture)
+  - Session 1: Understanding Guilt and Shame (guilt vs shame distinction, shame spiral)
+  - Session 2: Identifying Shame Triggers (five categories, pause point)
+  - Session 3: Healing Childhood Shame (inner child work, shame cloak removal)
+  - Session 4: Self-Compassion (three elements, self-compassion practice)
+  - Session 5: Rewriting Shame Stories (narrative restructuring, library metaphor)
+  - Session 6: Embracing Divine Worth (divine identity, unconditional love)
+  - Session 7: Living Shame-Free (four pillars of shame resilience, daily practices)
+  - Session 8: Freedom from Shame (integration, sealing, commissioning)
 
 ## Work Log
 2026-01-16 13:15: Completed all Anxiety scripts (Sessions 1-8 Deep + Quick)
@@ -134,6 +139,14 @@ git add -A && git commit -m 'Auto-save: [brief description of work done]'
   - Four-step transition ritual, emotional availability, quality time, memory creation
   - Focuses on presence, connection, and family legacy
 2026-01-16: Present with Family toolbox COMPLETE (10 non-hypnotherapy tools)
+2026-01-16: Guilt and Shame series COMPLETE (all 8 sessions, both versions)
+  - All scripts ~5,000 words (deep) and ~2,400 words (quick)
+  - Uses palm on chest anchor for self-compassion
+  - Evidence-based: Brené Brown shame resilience, self-compassion research
+  - Distinction between guilt (behavior) and shame (identity)
+  - Inner child healing, narrative restructuring, divine worth
+  - Four pillars of shame resilience with daily practices
+2026-01-16: Guilt and Shame toolbox COMPLETE (10 non-hypnotherapy tools)
 
 ## New Series Requested
 - **Developing Patience**: 6-8 sessions x 2 versions
@@ -141,8 +154,7 @@ git add -A && git commit -m 'Auto-save: [brief description of work done]'
 - **Overcoming Perfectionism**: 6-8 sessions x 2 versions
 
 ## Next Steps
-1. Create Guilt and Shame series from scratch (6-8 sessions x 2)
-2. Create Developing Patience series (6-8 sessions x 2)
-3. Create Overcoming Misophonia series (6-8 sessions x 2)
-4. Create Overcoming Perfectionism series (6-8 sessions x 2)
-5. Create Master Toolbox organized by series
+1. Create Developing Patience series (6-8 sessions x 2)
+2. Create Overcoming Misophonia series (6-8 sessions x 2)
+3. Create Overcoming Perfectionism series (6-8 sessions x 2)
+4. Create Master Toolbox organized by series
