@@ -60,9 +60,14 @@ git add -A && git commit -m 'Auto-save: [brief description of work done]'
   - Session 6: Silencing the Inner Critic (inner supporter voice, script replacement)
   - Session 7: Action Over Analysis (smallest step, two-minute rule, 15-min timer)
   - Session 8: Living with a Calm Mind (integration, all 7 skills consolidated)
-- **Nail Biting**: Pending expansion (6 sessions x 2 versions)
-  - Preserve behavioral techniques like fist/wrist tap
-  - Add HRT (Habit Reversal Training) techniques
+- **Nail Biting**: COMPLETE (Sessions 1-6, Deep + Quick = 12 scripts)
+  - Anchor: thumb + first finger
+  - Session 1: Understanding the Habit (BFRB concept, habit loop, awareness foundation)
+  - Session 2: Awareness and Triggers (4 trigger categories, wrist tap, urge surfing)
+  - Session 3: The Competing Response (gentle fist held 1-2 minutes, core HRT technique)
+  - Session 4: Emotional Roots (anxiety/boredom/frustration/sadness, healthier alternatives)
+  - Session 5: Building New Identity (identity-level change, identity statement)
+  - Session 6: Freedom and Maintenance (integration, maintenance practices, handling slips)
 - **Pornography/Masturbation Addiction**: Pending expansion (10 sessions x 2 versions)
   - Should address masturbation alongside pornography
 - **Present with Family**: Pending expansion (6 sessions x 2 versions)
@@ -91,11 +96,17 @@ git add -A && git commit -m 'Auto-save: [brief description of work done]'
   - All scripts expanded from ~350-850 words to ~2,300-2,400 (quick) and ~4,900-5,200 (deep)
   - Uses thumb + middle finger anchor that builds progressively across all sessions
   - Evidence-based techniques: cognitive defusion, ACT, IFS parts work, mindfulness
+2026-01-16: Overthinking toolbox COMPLETE (10 non-hypnotherapy tools)
+2026-01-16: Nail Biting series COMPLETE (all 6 sessions, both versions)
+  - All scripts expanded from ~320-650 words to ~2,280-2,340 (quick) and ~5,050-5,150 (deep)
+  - Uses thumb + first finger anchor that builds progressively
+  - HRT techniques: wrist tap, competing response (gentle fist), urge surfing
+  - Emotional roots exploration with healthier alternatives
+  - Identity-level change approach
 
 ## Next Steps
-1. Create Overthinking toolbox (non-hypnotherapy supplemental tools)
-2. Expand Nail Biting series (6 sessions x 2) - add HRT techniques
-3. Expand Pornography/Masturbation series (10 sessions x 2)
-4. Expand Present with Family series (6 sessions x 2)
-5. Create Guilt and Shame series from scratch (6-8 sessions x 2)
-6. Create Master Toolbox organized by series
+1. Create Nail Biting toolbox (non-hypnotherapy supplemental tools)
+2. Expand Pornography/Masturbation series (10 sessions x 2)
+3. Expand Present with Family series (6 sessions x 2)
+4. Create Guilt and Shame series from scratch (6-8 sessions x 2)
+5. Create Master Toolbox organized by series
